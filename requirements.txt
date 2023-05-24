@@ -1,0 +1,14 @@
+# packages
+jupyter-client==7.3.4
+jupyterlab==3.0.0
+jupyter
+notebook
+matplotlib
+numpy
+opencv-python==4.7.0.72
+Pillow==9.4.0
+torch==2.0.0+cu117
+torchvision==0.15.0+cu117
+tqdm
+# package location
+--find-links https://download.pytorch.org/whl/torch_stable.html
